@@ -1,5 +1,7 @@
-Wie geht es dir
+# Liste der Grüße:
 
-Come Stai?
+- Wie geht es dir
 
-How are you?
+- Come Stai?
+
+- How are you?

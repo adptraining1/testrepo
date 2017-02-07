@@ -1,3 +1,7 @@
 ## Git Training
 
-Hello world
+Hello world 
+
+Hallo Welt
+
+Bonjour le monde
